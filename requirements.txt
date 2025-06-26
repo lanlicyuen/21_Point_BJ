@@ -1,0 +1,14 @@
+# 21点牌计数器所需的Python包
+# tkinter是Python内置的，不需要额外安装
+
+# 用于打包成exe文件
+pyinstaller>=5.0.0
+
+# 用于处理日期时间
+# datetime是Python内置的，不需要额外安装
+
+# 用于JSON数据处理
+# json是Python内置的，不需要额外安装
+
+# 用于文件操作
+# os是Python内置的，不需要额外安装
